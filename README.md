@@ -3,7 +3,7 @@
 🌱 I’m currently learning Data Science
 <!--
 **MaisaLauriane/MaisaLauriane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaisaLauriane&layout=compact&theme=radical">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div align="center">
+<a href="https://github.com/MaisaLauriane">
  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MaisaLauriane&show_icons=true&theme=radical"> 
- <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaisaLauriane&layout=compact&theme=radical">
+</div>
