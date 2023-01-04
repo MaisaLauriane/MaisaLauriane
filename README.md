@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 <a href="https://github.com/MaisaLauriane">
- <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MaisaLauriane&show_icons=true&theme=tokyonight"> 
+ <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MaisaLauriane&show_icons=true&theme=radical"> 
 </div>
 <div align="center">
 <a href="https://github.com/MaisaLauriane">
- <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaisaLauriane&layout=compact&theme=tokyonight">
+ <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaisaLauriane&layout=compact&theme=radical">
 </div>
